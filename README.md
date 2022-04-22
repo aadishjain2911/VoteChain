@@ -34,8 +34,14 @@ It is important to note that this project might be a bit heavy on the learning s
 Reading material for this week -
 
 - [Python Basics](https://www.w3schools.com/python/) (you can leave file handling onwards part)
-- [Understanding Blockchain](https://www.tutorialspoint.com/blockchain/index.htm)
-- [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf) (Only the sections 1, 2 and 9)
+- [Understanding Blockchain](https://www.tutorialspoint.com/blockchain/index.htm) (Upto Proof of work)
+- [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf) (Only the sections 1, 2, 3 and 4)
+
+OPTIONAL RESOURCE TO GET A BETTER UNDERSTANDING -
+
+- [Introduction To Blockchain By Vinay Sir](https://drive.google.com/drive/u/0/folders/19gNulrw9ilYJu0J27X3dphZm8fW4F10h) (Open with LDAP)
+
+
 
 
 
