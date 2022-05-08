@@ -45,6 +45,13 @@ Reading Material for this week -
 - [Understanding Blockchain](https://www.tutorialspoint.com/blockchain/index.htm) (Proof Of Work, Network, Incentives and Privacy)
 - [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf) (Only the sections 5, 6, 9 and 10)
 
+### Week 3
+
+Reading material for this week -
+
+- [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf) (revise all the sections)
+- [Understanding Blockchain](https://www.tutorialspoint.com/blockchain/index.htm)
+
 
 ## Optional Resource for Better Understanding
 
