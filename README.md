@@ -52,6 +52,16 @@ Reading material for this week -
 - [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf) (revise all the sections)
 - [Understanding Blockchain](https://www.tutorialspoint.com/blockchain/index.htm)
 
+### Week 4
+
+This week we will build an implementation plan for VoteChain which should contain the following things -
+
+- All classes that will be required
+- Methods to be defined in each class (only names and their description, not the complete implementation)
+- A flow chart describing which function is called when
+
+Note: Keep in mind that we are only simulating a blockchain, so we cannot implement some parts of the blockchain like updating target threshold, actual broadcasting between physically divided nodes, building the complete merkle tree for each block etc.
+
 
 ## Optional Resource for Better Understanding
 
