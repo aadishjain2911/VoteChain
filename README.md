@@ -62,6 +62,10 @@ This week we will build an implementation plan for VoteChain which should contai
 
 Note: Keep in mind that we are only simulating a blockchain, so we cannot implement some parts of the blockchain like updating target threshold, actual broadcasting between physically divided nodes, building the complete merkle tree for each block etc.
 
+### Week 5
+
+This week we will start the implementation
+
 
 ## Optional Resource for Better Understanding
 
